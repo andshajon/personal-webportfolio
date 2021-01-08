@@ -1,0 +1,311 @@
+* {
+    margin: 0;
+    padding: 0;
+    }
+
+    Body{
+     background-color: #ffffff;
+     font-family: lato, roboto,  sans-serif; 
+     
+    }
+    #header_menu_section{
+        background-color: blueviolet;
+    }
+    #menu{width: 80%;
+         margin:0 auto;
+
+    }
+    #menu > ul {
+
+        text-align: right;
+
+    }
+
+    #menu > ul li{
+        display: inline-block;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        padding-left:30px ;
+        padding-right: 30;
+        
+    }
+    #menu > ul li a {
+        text-decoration: none;
+        color:#050505;
+    }
+
+
+   
+
+ 
+
+
+ 
+
+
+    h1{font-size:45px;
+        color:steelblue;
+        padding-bottom: 30px;}
+
+    
+
+    #name_darkcolor{
+
+        color:tomato;
+
+
+    }
+    
+    p{
+        padding-bottom: 30px;
+        font-size: 18px;
+    }
+
+
+    .leftside_design{
+        
+        width:40%;
+        float: left;
+        margin-top:70px;
+        margin-left: 50px;
+        padding-left: 70px;
+        padding-top: 100px;
+        
+               
+
+
+         
+    }
+
+    .rightside_design{
+        width:40%;
+        float:left;
+        margin-left:80px;}
+
+
+    .rightside_design img{
+        width: 80%;
+
+    }
+
+    .leftside_design > button {
+        padding-left:50px;
+        padding-right:50px;
+        padding-top:10px;
+        padding-bottom: 10px;
+        font-size:20px;
+        border-radius: 8px;
+        border-color: tomato;
+        background-color: tomato;
+        background-image: linear-gradient(rgb(126, 187, 206),tomato);
+
+    }
+    .leftside_design > button a {
+        color: whitesmoke;
+       text-decoration: none;
+    }
+  
+  
+    #latest_work{
+    color: coral;
+    }
+
+    .first_half_width{
+       
+        width:40%;
+        float:left;
+        margin-left:80px;
+    }
+    .first_half_width  img {
+        width: 80%;
+    }
+
+    .second_half_width{
+
+        
+        width:40%;
+        float: left;
+        margin-top:130px;
+        margin-left: 50px;
+        padding-left: 130px;
+        padding-top: 100px;
+    }
+    .second_half_width h2{font-size:40px ;
+    padding-bottom: 30px;}
+
+
+ .second_half_width p{font-size:18px ;
+padding-bottom:20px ;}
+   
+
+  
+  .second_half_width > button {
+        padding-left:50px;
+        padding-right:50px;
+        padding-top:10px;
+        padding-bottom: 10px;
+        font-size:20px;
+        border-radius: 8px;
+        border-color: tomato;
+        background-color: tomato;
+
+        background-image: linear-gradient(rgb(126, 187, 206),tomato);
+
+    }
+    
+
+
+
+.second_half_width > button a {
+        color: whitesmoke;
+       text-decoration: none;
+       
+    }
+  
+    .clear{
+        clear: both;
+    }
+
+
+
+.main_work{
+
+    padding:15px;
+    margin:15px;;
+    float: left;
+    width: 25%;
+    border-radius: 8px;
+    box-shadow: 3px 3px 3px 3px rgb(136, 81, 97);
+    
+   
+}
+.main_work > h3{
+    font-size: 25px;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left: 20px;
+}
+
+.main_work > p{
+    padding: 20px;
+}
+#work_design{width: 80%;
+    margin:0 auto;
+    margin-top: 150px;
+
+}
+
+
+
+#contact_fifty_percent{
+width: 50%;
+height: 100px;
+margin:0 auto;
+background-color: rgb(46, 63, 139);
+padding: 50px;
+margin-top: 250px;
+border-radius: 8px;
+background-image: url(shapes/bg.png);
+background-repeat: no-repeat;
+
+
+}
+
+
+#contact_fifty_percent > h1 {
+    float:left;
+    padding-top: 50px;
+    color: seashell;
+}
+#contact_fifty_percent > button{
+    float:left;
+    margin-left:300px ;
+    margin-top:70px ;
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left:15px;
+    padding-right:15px;
+    border-radius: 8px;
+    background-color: tomato;
+    background-image: linear-gradient(rgb(126, 187, 206),tomato);
+
+}
+#contact_fifty_percent > button a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+#social_contact_design{
+    width:50%;
+    margin:0 auto;
+    text-align: center;
+    margin-top: 50px;
+
+}
+#social_contact_design > p {
+    font-size: 20px;
+    margin-bottom: -30px;
+    text-transform: uppercase;
+}
+
+#social_contact_design > h2{
+    padding-top: 10px;
+    font-size: 35px;
+    margin-bottom:150px ;
+}
+
+
+
+.portfolio{
+    width:900px;
+    margin: 0 auto;
+    
+
+}
+
+
+#uniqe {
+
+    font-size: 30px;
+    text-align: center;
+    color:red;
+    margin-bottom: 50px;
+    background-color: steelblue;
+    padding: 200px;
+}
+#portfoli_1 {
+    float:left;
+    width: 40%;
+    padding-left:200px;
+    
+}
+
+.portfoli2 {
+
+  width:40%;
+        float: left;
+        padding-left: 200px;
+    }
+    #service_design{
+
+        width:80%;
+        margin: 0 auto;
+    }
+
+    .service_work{
+        float: left;
+        width: 35%;
+    }
+
+   .service_work2{
+       float:left;
+       width: 35%;
+   }
+  .contact{
+      margin-bottom: 100px;;
+  }
+
+  #last{
+      margin-bottom: 50px;
+  }
